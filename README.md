@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Author : Abinash patra
 <!--
 **Abinashmca/Abinashmca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
